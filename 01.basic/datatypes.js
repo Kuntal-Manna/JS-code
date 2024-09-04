@@ -17,5 +17,7 @@ let isLoggedIn = false
 
 // object
 
-console.log(typeof "28");
+console.log(typeof 28);
 console.log(typeof null); // object
+console.log(typeof "Kuntal");
+console.log(typeof false);
